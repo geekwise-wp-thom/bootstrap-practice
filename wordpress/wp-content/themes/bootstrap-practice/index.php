@@ -21,7 +21,7 @@
                 </div>
             </div>
         </section>
-        <section>
+        <section class="container-fluid">
             <ul>
                 <li>How to build a website</li>
                 <li>How to make people smile</li>

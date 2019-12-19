@@ -18,11 +18,8 @@
     <?php wp_head(); ?>
 </head>
 <body>
-    <header class="container-fluid d-flex justify-content-center">
-            <h1>You're going to love the most amazing website ever!</h1>
-    </header>
-    <nav class="container navbar navbar-expand-lg navbar-dark bg-dark">
-    <a class="navbar-brand" href="#">Navbar</a>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">Interests</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -52,4 +49,7 @@
         </ul>
     </div>
     </nav>
+    <header class="container-fluid d-flex justify-content-center">
+            <h1>You're going to love the most amazing website ever!</h1>
+    </header>
 </body>
