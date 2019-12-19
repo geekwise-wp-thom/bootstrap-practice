@@ -3,3 +3,12 @@ Theme Name: Bootstrap 4 Practice
 Author: TWise
 Version: 1.0
 */
+
+img {
+    box-shadow: 10px 20px 10px grey;
+    height: 40vh;
+}
+
+.dropdown-item:hover {
+    background-color: grey;
+}
