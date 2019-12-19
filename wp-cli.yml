@@ -1,0 +1,4 @@
+require:
+  - wp-cli/browse-command.php
+@bootstrap.practice:
+  ssh: vagrant:bootstrap.practice:/var/www/html
