@@ -1,5 +1,5 @@
         <footer>
-            <section class="container-fluid bg-dark p-3 my-3">
+            <section class="container-fluid bg-dark p-3 mt-5">
                 <div class="row">
                     <div class="col-md-6 d-flex flex-column text-white align-items-center">
                         <h6>123 Fake St.</h6>

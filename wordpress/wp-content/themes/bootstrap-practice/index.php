@@ -21,13 +21,43 @@
                 </div>
             </div>
         </section>
-        <section class="container-fluid">
-            <ul>
-                <li>How to build a website</li>
-                <li>How to make people smile</li>
-                <li>Coding can be fun</li>
-                <li>Snakes on a plane</li>
-            </ul>
+        <section class="container-fluid row">
+            <div class="col-lg-4">
+                <div class="card shadow my-3 pt-3 pl-4">
+                    <h2>What would you like to learn?</h2>
+                    <ul>
+                        <a href="#"><li>How to build a website</li></a>
+                        <li>How to make people smile</li>
+                        <li>When to use css instead of bootstrap</li>
+                        <li>How many snakes you can fit on a plane</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="card shadow my-3 pt-3 pl-4">
+                    <h2>Where would you want to live?</h2>
+                    <ul>
+                        <li>Fresno, CA</li>
+                        <li>Barcelona, SP</li>
+                        <li>Rio De Janero, BZ</li>
+                        <li>Your mom's basement</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="card shadow my-3 pt-3 pl-4">
+                    <h2>What would be your ideal job?</h2>
+                    <ul>
+                        <li>Video Game Developer</li>
+                        <li>Lounge Singer</li>
+                        <li>Pilot</li>
+                        <li>Linebacker</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <section class="container-fluid row">        
+            <img class="d-flex align-content-end" src="http://bootstrap.practice/wp-content/uploads/2019/12/Profile.jpg" alt="Picture of a man wearing a coat in the forest">
         </section>
     </main>
 <?php get_footer(); ?>
